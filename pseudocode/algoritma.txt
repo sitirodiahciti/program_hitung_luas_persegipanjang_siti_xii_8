@@ -22,18 +22,18 @@ D. TUJUAN PROGRAM
 membantu pengguna menghitung luas persegi panjang secara cepat dan tepat 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
-1. DEKLARASI 
-   L,P,l float
-2. INPUT:
-   Tuliskan data yang dimasukkan pengguna.
 
-3. PROSES:
-   Tuliskan langkah pengolahan atau perhitungan
-   yang dilakukan program.
+1. INPUT:
+   - panjang persegi panjang(P)
+ - lebar persegi panjang(L)
 
-4. OUTPUT:
-   Tuliskan hasil yang akan ditampilkan program.
+2. PROSES:
+   - menghitung luas persegi panjang.
+  - rumus: luas = panjang = lebar.
 
+3. OUTPUT:
+   - menampilkan hasil luas persegi panjang.
+  
 F. ALGORITMA / PSEUDOCODE
 
 Tuliskan langkah-langkah algoritma secara
@@ -41,12 +41,11 @@ sistematis dan logis.
 
 MULAI
 
-   1. Deklarasikan variabel yang diperlukan.
-   2. Masukkan data (INPUT).
-   3. Lakukan proses pengolahan data.
-   4. Gunakan percabangan IF-ELSE jika diperlukan.
-   5. Gunakan perulangan FOR/WHILE jika diperlukan.
-   6. Tampilkan hasil (OUTPUT).
+   1. Deklarasikan variabel panjang, lebar, dan luas.
+   2. Masukkan nilai panjang.
+   3. masukkan nilai lebar.
+   4. hitung luas = panjang =lebar. 
+   5. tampilkan nilai luas.
 
 SELESAI
 
